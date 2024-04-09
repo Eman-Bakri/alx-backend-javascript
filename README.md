@@ -1,2 +1,2 @@
-Backend Specialization
-Javascript Related projects
+ 0x00. ES6 Basics Project
+Backend Javascript
